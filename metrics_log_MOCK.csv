@@ -1,0 +1,2 @@
+timestamp,total_tickets,flagged_count,safety_concern_count,action_mismatch_count,avg_tone,avg_clarity,avg_accuracy
+2026-06-10T20:12:03.092768+00:00,8,5,1,4,3.62,4,2.88
